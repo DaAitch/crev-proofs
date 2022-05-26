@@ -1,0 +1,22 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-05-26T20:22:31.733170+02:00"
+from:
+  id-type: crev
+  id: W0LaVMFVQwfqGU0qCSLOJ6fKtBRMBY3ijz-aIoFwf4I
+  url: "https://github.com/daaitch/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: hex
+  version: 0.4.3
+  revision: b2b4370b5bf021b98ee7adc92233e8de3f2de792
+  digest: Ui4nPxq-frD0NVeuYzpB66CuSNsbnaH-diUIUeMvFFU
+review:
+  thoroughness: medium
+  understanding: medium
+  rating: positive
+----- SIGN CREV PROOF -----
+zZPjJqrzXq32_BNU68JmFqX_VmRyhPAnxVvc8TZX6JMoVgp9sg0f_hihDZQIKhFAzHeFXgmrfdXjwZ8w6dCrDA
+----- END CREV PROOF -----
+
