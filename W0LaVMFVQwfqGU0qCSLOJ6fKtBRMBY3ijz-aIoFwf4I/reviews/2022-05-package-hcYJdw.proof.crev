@@ -20,3 +20,25 @@ review:
 zZPjJqrzXq32_BNU68JmFqX_VmRyhPAnxVvc8TZX6JMoVgp9sg0f_hihDZQIKhFAzHeFXgmrfdXjwZ8w6dCrDA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-05-27T19:48:51.815849+02:00"
+from:
+  id-type: crev
+  id: W0LaVMFVQwfqGU0qCSLOJ6fKtBRMBY3ijz-aIoFwf4I
+  url: "https://github.com/daaitch/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: gethostname
+  version: 0.2.3
+  revision: 40a73f54f7c9caf88dd77d4458fbb79a00663c4e
+  digest: zitl0xyaViBV7c0a8d3iiwdxgE92dX-A0ybVwucAIAY
+review:
+  thoroughness: medium
+  understanding: high
+  rating: positive
+----- SIGN CREV PROOF -----
+IvevVlT2BrEni5pv9YnzrWkj95qtd-HXYfbCuOOq5Lr3jbeuD9EPInJdf2UEbpr4NqwLZy9PYFojWLycrdHDAQ
+----- END CREV PROOF -----
+
